@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Afif Hazmie</h1>
 <h3 align="center">A passionate data engineer from Malaysia</h3>
-<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ed/76/df/ed76df1b5da78ca7317a01cf9a648d0c.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afifhazmie&label=Profile%20views&color=0e75b6&style=flat" alt="afifhazmie" /> </p>
