@@ -1,7 +1,7 @@
 [![MasterHead](https://images-cdn.exchange.art/I3cHkBXiz-7p-Uhj3u8vJKu591cLWwGziSwPo0wh3nU?ext=fastly&optimize=high&auto=avifwebp&width=1000)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
 <h1 align="center">Hi 👋, I'm Afif Hazmie</h1>
-<h3 align="center">A passionate data engineer from Malaysia</h3>
+<h3 align="center">A passionate computer science student from Malaysia</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ed/76/df/ed76df1b5da78ca7317a01cf9a648d0c.gif">
 
 
