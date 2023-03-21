@@ -11,7 +11,9 @@
 
 - 🌱 I’m currently learning **MongoDB**
 
-- 💬 Ask me about **Data mining**
+- 🥇 Licenses & Certifications Alteryx Designer Core, Alteryx Foundational Micro-Credential, AWS Academy Cloud Foundations, AWS Academy Data Analytics and AWS Academy Machine Learning Foundations
+
+- 💬 Experience in **EDA, big data, web scrapping, system development, Alteryx, Tableau and PowerBI**
 
 - 📫 How to reach me **afifhazmie2@gmail.com**
 
