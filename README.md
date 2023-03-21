@@ -1,4 +1,4 @@
-![MasterHead](https://i.redd.it/thj41ymmh0351.gif)
+![MasterHead](https://images-cdn.exchange.art/I3cHkBXiz-7p-Uhj3u8vJKu591cLWwGziSwPo0wh3nU?ext=fastly&optimize=high&auto=avifwebp&width=1000)
 
 <h1 align="center">Hi 👋, I'm Afif Hazmie</h1>
 <h3 align="center">A passionate data engineer from Malaysia</h3>
