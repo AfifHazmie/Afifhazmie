@@ -1,4 +1,4 @@
-![MasterHead](https://images-cdn.exchange.art/I3cHkBXiz-7p-Uhj3u8vJKu591cLWwGziSwPo0wh3nU?ext=fastly&optimize=high&auto=avifwebp&width=1000)
+[![MasterHead](https://images-cdn.exchange.art/I3cHkBXiz-7p-Uhj3u8vJKu591cLWwGziSwPo0wh3nU?ext=fastly&optimize=high&auto=avifwebp&width=1000)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
 <h1 align="center">Hi 👋, I'm Afif Hazmie</h1>
 <h3 align="center">A passionate data engineer from Malaysia</h3>
