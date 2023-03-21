@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpaperaccess.com/full/5927911.gif)]
+![MasterHead](https://wallpaperaccess.com/full/5927911.gif)
 
 <h1 align="center">Hi 👋, I'm Afif Hazmie</h1>
 <h3 align="center">A passionate data engineer from Malaysia</h3>
