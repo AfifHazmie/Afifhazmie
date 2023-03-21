@@ -23,7 +23,7 @@
 <a href="https://twitter.com/afifhazmie2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="afifhazmie2" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/afif-hazmie-arsyad-agus-357044254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afif hazmie arsyad agus" height="30" width="40" /></a>
 <a href="https://kaggle.com/afif hazmie arsyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="afif hazmie arsyad" height="30" width="40" /></a>
-<a href="https://fb.com/afif hazmie arsyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="afif hazmie arsyad" height="30" width="40" /></a>
+<a href="https://www.facebook.com/afifhazmie.arsyad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="afif hazmie arsyad" height="30" width="40" /></a>
 <a href="https://instagram.com/afifhazmy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afifhazmy_" height="30" width="40" /></a>
 </p>
 
