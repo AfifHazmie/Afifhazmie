@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **afifhazmie2@gmail.com**
 
-- ⚡ Fun fact **I think I am a funny and kind person**
+- ⚡ Fun fact **I think I can be a pro gamer**
 
 ---
 <h3 align="left">Connect with me:</h3>
